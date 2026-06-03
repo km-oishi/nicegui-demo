@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 仮想環境
+.venv/
+venv/
+env/
+
+# uv
+.python-version
+
+# データファイル（大容量）
+data/
+
+# エクスポート生成物
+*.gif
+*.mp4
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NiceGUI キャッシュ
+.nicegui/
